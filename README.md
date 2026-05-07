@@ -1,16 +1,70 @@
-## Hi there 👋
+# Mohammadreza Malikhan
 
-<!--
-**malikhan-dev/malikhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer specializing in **Go (Golang)** and **C#**, focused on building efficient systems, reusable libraries, and clean backend architectures.
 
-Here are some ideas to get you started:
+I enjoy solving complex problems, optimizing performance, and designing developer-friendly APIs. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- Backend developer with a focus on DDD, Microservices,TDD
+- Working primarily with **Go** and **.NET / C#**
+- Interested in **systems design, performance optimization, and library development**
+- Creator and main developer of the **Lingo** Go package
+
+---
+
+## 🚀 Open Source Project
+
+### Lingo
+
+**Lingo** is a Go library inspired by the LINQ philosophy that provides expressive querying capabilities for slices and collections (at the moment).
+
+The goal of Lingo is to make data querying in Go more powerful and readable while keeping the implementation efficient and aligned with Go's design principles.
+
+Main ideas behind the project:
+
+- Fluent and expressive query style
+- Practical abstraction for working with slices
+- Performance-aware design
+- Clean and intuitive developer experience
+
+Repository:
+https://github.com/malikhan-dev/lingo
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Go, C#
+
+### Technologies & Tools
+Golang,Gin,.NET,Asp.Net, PostgreSQL, Mongo db ,Redis, Linux, REST APIs and etc
+
+---
+
+## 📊 GitHub Stats
+
+GitHub Stats:
+https://github-readme-stats.vercel.app/api?username=malikhan-dev&show_icons=true&theme=tokyonight
+
+Top Languages:
+https://github-readme-stats.vercel.app/api/top-langs/?username=malikhan-dev&layout=compact&theme=tokyonight
+
+---
+
+## 💡 Development Principles
+
+- Write **tested, clear and maintainable code**
+- Prefer **simple and meaningful designs**
+- Optimize **performance where it matters**
+- Build tools that improve the **developer experience**
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/malikhan-dev
+email: malikhan.dev2020@gmail.com
