@@ -33,6 +33,9 @@ Main ideas behind the project:
 Repository:
 https://github.com/malikhan-dev/lingo
 
+<img width="1287" height="465" alt="Screenshot from 2026-05-06 21-03-58" src="https://github.com/user-attachments/assets/d77e32d4-581d-48d7-8420-c365b4ec7bc0" />
+
+
 ---
 
 ## 🛠 Tech Stack
