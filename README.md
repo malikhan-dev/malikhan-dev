@@ -6,7 +6,7 @@ I enjoy solving complex problems, optimizing performance, and designing develope
 
 ---
 
-## 👨‍💻 About Me
+## 💻 About Me
 
 - Backend developer with a focus on DDD, Microservices,TDD
 - Working primarily with **Go** and **.NET / C#**
@@ -15,7 +15,7 @@ I enjoy solving complex problems, optimizing performance, and designing develope
 
 ---
 
-## 🚀 Open Source Project
+## 🌐 Open Source Project
 
 ### Lingo
 
@@ -41,7 +41,7 @@ https://github.com/malikhan-dev/lingo
 Go, C#
 
 ### Technologies & Tools
-Golang,Gin,.NET,Asp.Net, PostgreSQL, Mongo db ,Redis, Linux, REST APIs and etc
+Golang, Gin, .NET, Asp.Net, PostgreSQL, Mongo db, Redis, Linux, REST APIs and etc
 
 
 ## 💡 Development Principles
