@@ -43,21 +43,10 @@ Go, C#
 ### Technologies & Tools
 Golang,Gin,.NET,Asp.Net, PostgreSQL, Mongo db ,Redis, Linux, REST APIs and etc
 
----
-
-## 📊 GitHub Stats
-
-GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=malikhan-dev&show_icons=true&theme=tokyonight
-
-Top Languages:
-https://github-readme-stats.vercel.app/api/top-langs/?username=malikhan-dev&layout=compact&theme=tokyonight
-
----
 
 ## 💡 Development Principles
 
-- Write **tested, clear and maintainable code**
+- Write **tested,documented, clear and maintainable code**
 - Prefer **simple and meaningful designs**
 - Optimize **performance where it matters**
 - Build tools that improve the **developer experience**
@@ -66,5 +55,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=malikhan-dev&layo
 
 ## 📫 Contact
 
-GitHub: https://github.com/malikhan-dev
+GitHub: https://github.com/malikhan-dev 
+
 email: malikhan.dev2020@gmail.com
