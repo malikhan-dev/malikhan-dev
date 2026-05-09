@@ -9,7 +9,7 @@ I enjoy solving complex problems, optimizing performance, and designing develope
 ## 💻 About Me
 
 - Backend developer with a focus on DDD, Microservices,TDD
-- Working primarily with **Go** and **.NET / C#**
+- Working primarily with **Go** and **.NET / C#** and **Blazor WebAseembly** 
 - Interested in **systems design, performance optimization, and library development**
 - Creator and main developer of the **Lingo** Go package
 
@@ -44,7 +44,7 @@ https://github.com/malikhan-dev/lingo
 Go, C#
 
 ### Technologies & Tools
-Golang, Gin, .NET, Asp.Net, PostgreSQL, Mongo db, Redis, Linux, REST APIs and etc
+Golang, Gin, .NET, Asp.Net, Blazor WebAseembly,Linux ,PostgreSQL, Mongodb, Redis, REST APIs and etc
 
 
 ## 💡 Development Principles
