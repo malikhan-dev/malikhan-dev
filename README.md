@@ -9,7 +9,7 @@ I enjoy solving complex problems, optimizing performance, and designing develope
 ## 💻 About Me
 
 - Backend developer with a focus on DDD, Microservices,TDD
-- Working primarily with **Go** and **.NET / C#** and **Blazor WebAseembly** 
+- Working primarily with **Go**, **.NET / C#** and **Blazor WebAseembly** 
 - Interested in **systems design, performance optimization, and library development**
 - Creator and main developer of the **Lingo** Go package
 
