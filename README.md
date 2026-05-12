@@ -19,7 +19,7 @@ I enjoy solving complex problems, optimizing performance, and designing develope
 
 ### Lingo
 
-**Lingo** is a Go library inspired by the LINQ philosophy that provides expressive querying capabilities for slices and collections (at the moment).
+**Lingo** is a Go library inspired by the LINQ philosophy that provides expressive querying capabilities for slices and collections, with streaming capabilities and more importantly its compiled streams engines you can rely on lingo for heavy duties and large data's.
 
 The goal of Lingo is to make data querying in Go more powerful and readable while keeping the implementation efficient and aligned with Go's design principles.
 
