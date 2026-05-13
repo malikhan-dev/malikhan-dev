@@ -30,6 +30,7 @@ Main ideas behind the project:
 - Practical abstraction for working with slices
 - Performance-aware design
 - Clean and intuitive developer experience
+- Efficient data streaming
 
 Repository:
 https://github.com/malikhan-dev/lingo
