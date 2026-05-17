@@ -11,7 +11,7 @@ I enjoy solving complex problems, optimizing performance, and designing develope
 - Backend developer with a focus on DDD, Microservices,TDD
 - Working primarily with **Go**, **.NET / C#** and **Blazor WebAseembly** 
 - Interested in **systems design, performance optimization, and library development**
-- Creator and main developer of the **Lingo** Go package
+- Creator and main developer of the **Zen-Q** Go package
 
 ---
 
@@ -19,7 +19,7 @@ I enjoy solving complex problems, optimizing performance, and designing develope
 
 ### Lingo
 
-**Lingo** is a Go DSL inspired by LINQ that brings expressive querying, streaming, and compiled stream pipeline execution to slices and collections, enabling efficient processing for high-throughput workloads and large datasets.
+**Zen-Q** is a Go DSL inspired by LINQ that brings expressive querying, streaming, and compiled stream pipeline execution to slices and collections, enabling efficient processing for high-throughput workloads and large datasets. 
 
 
 The goal of Lingo is to make data querying in Go more powerful and readable while keeping the implementation efficient and aligned with Go's design principles.
@@ -33,7 +33,7 @@ Main ideas behind the project:
 - Efficient data streaming
 
 Repository:
-https://github.com/malikhan-dev/lingo
+https://github.com/malikhan-dev/zenq
 
 <img width="1287" height="465" alt="Screenshot from 2026-05-06 21-03-58" src="https://github.com/user-attachments/assets/d77e32d4-581d-48d7-8420-c365b4ec7bc0" />
 
