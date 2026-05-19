@@ -19,7 +19,7 @@ I enjoy solving complex problems, optimizing performance, and designing develope
 
 ### ZENQ
 
-**Zen-Q** is a Go DSL inspired by LINQ that brings expressive querying, streaming, and compiled stream pipeline execution to slices and collections, enabling efficient processing for high-throughput workloads and large datasets. 
+**Zen-Q** is a Go DSL inspired by LINQ that brings expressive querying, streaming, and compiled stream pipeline execution to slices and collections and a variety of data sources (csv files recently), enabling efficient processing for high-throughput workloads and large datasets. 
 
 
 The goal of Zenq is to make data querying in Go more powerful and readable while keeping the implementation efficient and aligned with Go's design principles.
