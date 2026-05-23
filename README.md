@@ -50,6 +50,24 @@ https://github.com/malikhan-dev/zenq
 ```
 
 
+``` go
+
+
+	res :=
+		collections.From(UserList).Where(func(user Users) bool {
+
+			return collections.From(user.Addr).Any(func(address Address) bool {
+				return address.City == "Karaj"
+			}).Assert()
+
+		}).Collect()
+
+	fmt.Println(res)
+
+
+```
+
+
 ---
 
 ## 🛠 Tech Stack
