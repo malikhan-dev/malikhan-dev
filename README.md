@@ -4,22 +4,10 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 
 I enjoy solving complex problems, optimizing performance, and designing developer-friendly APIs. 
 
----
 
-## 💻 About Me
+## 🌐Project ZenQ
 
-- Backend developer with a focus on DDD, Microservices,TDD
-- Working primarily with **Go**, **.NET / C#** and **Blazor WebAseembly** 
-- Interested in **systems design, performance optimization, and library development**
-- Creator and main developer of the **Zen-Q** Go package
-
----
-
-## 🌐 Open Source Project
-
-### ZENQ
-
-**Zen-Q** is a Go DSL inspired by LINQ that brings expressive querying, streaming, and compiled stream pipeline execution to slices and a variety of data sources (csv files recently), enabling efficient processing for high-throughput workloads and large datasets. 
+**Zen-Q** is an open-source Go DSL inspired by LINQ that brings expressive querying, streaming, and compiled stream pipeline execution to slices and a variety of data sources (csv files recently), enabling efficient processing for high-throughput workloads and large datasets. 
 
 
 The goal of Zenq is to make data querying in Go more powerful and readable while keeping the implementation efficient and aligned with Go's design principles.
@@ -67,8 +55,13 @@ https://github.com/malikhan-dev/zenq
 
 ```
 
+## 💻 About Me
 
----
+- Backend developer with a focus on DDD, Microservices,TDD
+- Working primarily with **Go**, **.NET / C#** and **Blazor WebAseembly** 
+- Interested in **systems design, performance optimization, and library development**
+- Creator and main developer of the **Zen-Q** Go package
+
 
 ## 🛠 Tech Stack
 
@@ -86,7 +79,6 @@ Golang, Gin, .NET, Asp.Net, Blazor WebAseembly,Linux ,PostgreSQL, Mongodb, Redis
 - Optimize **performance where it matters**
 - Build tools that improve the **developer experience**
 
----
 
 ## 📫 Contact
 
