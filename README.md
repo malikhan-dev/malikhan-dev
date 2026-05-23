@@ -5,55 +5,59 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 I enjoy solving complex problems, optimizing performance, and designing developer-friendly APIs. 
 
 
-## 🌐Project ZenQ
+<p align="center">
+  <img width="500" height="400" alt="zenq-logo" src="https://github.com/user-attachments/assets/6f0da9a5-bddb-4622-b914-54f2cbdb9b21" />
+</p>
 
-**Zen-Q** is an open-source Go DSL inspired by LINQ that brings expressive querying, streaming, and compiled stream pipeline execution to slices and a variety of data sources (csv files recently), enabling efficient processing for high-throughput workloads and large datasets. 
+<h1 align="center">🌐 Project ZenQ</h1>
+
+<p align="center">
+  <em>Expressive querying & streaming for Go, inspired by LINQ.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/malikhan-dev/zenq"><strong>Explore the Repository »</strong></a>
+</p>
+
+---
+
+## 📖 About ZenQ
+**ZenQ** is an open-source Go DSL inspired by LINQ. It brings expressive querying, streaming, and compiled stream pipeline execution to slices and various data sources (such as CSV files). ZenQ enables efficient processing for high-throughput workloads and large datasets.
+
+The goal is to make data querying in Go more powerful and readable while staying aligned with Go's design principles.
+
+### ✨ Key Features
+*   **Fluent & Expressive:** A clean, LINQ-like query syntax.
+*   **Performance-Aware:** Designed for high-throughput and efficiency.
+*   **Versatile:** Seamlessly works with slices and external data sources.
+*   **Developer Experience:** Clean, intuitive, and easy to maintain.
+*   **Data Streaming:** Optimized for handling large datasets without overhead.
+
+---
+
+## 🚀 Quick Start Examples
+
+### 1. Processing CSV Streams
+```go
+ctx, cancel := context.WithCancel(context.Background())
+defer cancel()
+
+var CsvStreamConfig contracts.CsvStreamConf[customer]
+
+data := streams.FromCsv(ctx, CsvStreamConfig).FilterStream(func(c customer) bool {return c.Index > 0}).TakeAll()
 
 
-The goal of Zenq is to make data querying in Go more powerful and readable while keeping the implementation efficient and aligned with Go's design principles.
 
-Main ideas behind the project:
-
-- Fluent and expressive query style
-- Practical abstraction for working with slices
-- Performance-aware design
-- Clean and intuitive developer experience
-- Efficient data streaming
-
-Repository:
-https://github.com/malikhan-dev/zenq
-
-``` go
-
-	ctx, cancel := context.WithCancel(context.Background())
-
-	defer cancel()
-
-	var CsvStreamConfig contracts.CsvStreamConf[customer]
-
-	data := streams.FromCsv(ctx, CsvStreamConfig).FilterStream(func(c customer) bool {
-		return c.Index > 0
-	}).TakeAll()
-
-```
-
-
-``` go
-
-
-	res :=
-		collections.From(UserList).Where(func(user Users) bool {
-
+res := collections.From(UserList).
+		Where(func(user Users) bool {
 			return collections.From(user.Addr).Any(func(address Address) bool {
-				return address.City == "Karaj"
-			}).Assert()
-
-		}).Collect()
-
-	fmt.Println(res)
-
+				return address.City == "Karaj"}).Assert()
+			}).Collect()
 
 ```
+
+---
+
 
 ## 💻 About Me
 
@@ -85,3 +89,4 @@ Golang, Gin, .NET, Asp.Net, Blazor WebAseembly,Linux ,PostgreSQL, Mongodb, Redis
 GitHub: https://github.com/malikhan-dev 
 
 email: malikhan.dev2020@gmail.com
+
