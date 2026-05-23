@@ -2,9 +2,6 @@
 
 Backend developer specializing in **Go (Golang)** and **C#**, focused on building efficient systems, reusable libraries, and clean backend architectures.
 
-I enjoy solving complex problems, optimizing performance, and designing developer-friendly APIs. 
-
-
 <p align="center">
   <img width="500" height="400" alt="zenq-logo" src="https://github.com/user-attachments/assets/6f0da9a5-bddb-4622-b914-54f2cbdb9b21" />
 </p>
@@ -35,9 +32,8 @@ The goal is to make data querying in Go more powerful and readable while staying
 
 ---
 
-## 🚀 Quick Start Examples
+## 🚀 Developer Friendly
 
-### 1. Processing CSV Streams
 ```go
 ctx, cancel := context.WithCancel(context.Background())
 defer cancel()
