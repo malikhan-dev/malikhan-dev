@@ -9,7 +9,7 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 <h1 align="center">🌐 Project ZenQ</h1>
 
 <p align="center">
-  <em>Expressive querying & streaming for Go, inspired by LINQ.</em>
+  <em>Expressive, Polymorphic Queries with Streaming Capabilities and a User-Friendly API, inspired by LINQ.</em>
 </p>
 
 <p align="center">
