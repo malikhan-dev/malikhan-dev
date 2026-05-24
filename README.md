@@ -45,10 +45,9 @@ data := streams.FromCsv(ctx, CsvStreamConfig).FilterStream(func(c customer) bool
 
 
 res := collections.From(UserList).
-		Where(func(user Users) bool {
-			return collections.From(user.Addr).Any(func(address Address) bool {
-				return address.City == "Karaj"}).Assert()
-			}).Collect()
+					Where(func(user Users) bool {
+						return collections.From(user.Addr).Any(func(address Address) bool {
+							return address.City == "Karaj"}).Assert()}).Collect()
 
 ```
 
