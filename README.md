@@ -40,9 +40,11 @@ defer cancel()
 
 var CsvStreamConfig contracts.CsvStreamConf[customer]
 
-data := streams.FromCsv(ctx, CsvStreamConfig).FilterStream(func(c customer) bool {return c.Index > 0}).TakeAll()
-
-
+if stream:= streams.FromCsv(ctx,CsvStreamConfig);stream.Initiated{
+	data := stream.FilterStream(func(c customer) bool {return c.Index > 0}).TakeAll()
+} else {
+	fmt.Println(stream.err)
+}
 
 res := collections.From(UserList).
 					Where(func(user Users) bool {
