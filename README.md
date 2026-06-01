@@ -19,7 +19,7 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 ---
 
 ## 📖 About ZenQ
-**ZenQ** is an open-source Go DSL inspired by LINQ. It brings expressive querying, streaming, and pipeline execution to slices and various asynch data sources (such as CSV or JSON Files, MySql Or Postgres databases and etc...). ZenQ enables efficient processing for high-throughput workloads and large datasets.
+**ZenQ** is an open-source Go DSL inspired by LINQ. It brings expressive querying, streaming, and pipeline execution to slices and various async data sources (such as CSV or JSON Files, MySql Or Postgres databases and etc...). ZenQ enables efficient processing for high-throughput workloads and large datasets.
 
 The goal is to make data querying in Go more powerful and readable while staying aligned with Go's design principles.
 
