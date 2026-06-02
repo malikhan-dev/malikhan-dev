@@ -47,10 +47,9 @@ if stream:= streams.FromCsv(ctx,CsvStreamConfig);stream.Initiated{
 	fmt.Println(stream.err)
 }
 
-res := collections.From(UserList).
-					Where(func(user Users) bool {
-						return collections.From(user.Addr).Any(func(address Address) bool {
-							return address.City == "Karaj"}).Assert()}).Collect()
+res := collections.From(UserList).Where(func(user Users) bool {
+										return collections.From(user.Addr).Any(func(address Address) bool {
+																				return address.City == "Karaj"}).Assert()}).Collect()
 
 ```
 
