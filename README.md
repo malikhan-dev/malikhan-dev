@@ -6,7 +6,7 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
   <img width="500" height="400" alt="zenql-logo" src="https://github.com/user-attachments/assets/6f0da9a5-bddb-4622-b914-54f2cbdb9b21" />
 </p>
 
-<h1 align="center">🌐 Project zenql</h1>
+<h1 align="center">🌐 Project ZenQL</h1>
 
 <p align="center">
   <em>Expressive, Polymorphic Queries with Streaming Capabilities and a User-Friendly API, inspired by LINQ.</em>
