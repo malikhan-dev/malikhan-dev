@@ -14,7 +14,7 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 
 <p align="center">
   <a href="https://github.com/malikhan-dev/zenq">
-    <img src="https://hits.seeyouforme.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmalikhan-dev%2Fzenq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Views"/>
+    <img src="https://hits.seeyouforme.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmalikhan-dev%2Fzenq&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt=""/>
   </a>
 </p>
 
