@@ -42,18 +42,22 @@ defer cancel()
 var CsvStreamConfig contracts.CsvStreamConf[customer]
 
 if stream:= streams.FromCsv(ctx,CsvStreamConfig);stream.Initiated{
+
 	data := stream.FilterStream(func(c customer) bool {return c.Index > 0}).TakeAll()
+
 } else {
+
 	fmt.Println(stream.err)
+
 }
 
- res := collections.From(UserList).Where(func(user Users) bool {
+ result := collections.From(UserList).Where(func(user Users) bool {
    
-              return collections.From(user.Addr).Any(func(address Address) bool {
+         return collections.From(user.Addr).Any(func(address Address) bool {
               
-                return address.City == "Karaj"
+               return address.City == "Karaj"
               
-              }).Assert()}).Collect()
+          }).Assert()}).Collect()
 
 ```
 
