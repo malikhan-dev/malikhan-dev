@@ -69,7 +69,7 @@ if stream:= streams.FromCsv(ctx,CsvStreamConfig);stream.Initiated{
 - Backend developer with a focus on DDD, Microservices,TDD
 - Working primarily with **Go**, **.NET / C#** and **Blazor WebAseembly** 
 - Interested in **systems design, performance optimization, and library development**
-- Creator and main developer of the **Zen-Q** Go package
+- Creator and main developer of the **Zen-QL** Go package
 
 
 ## 🛠 Tech Stack
