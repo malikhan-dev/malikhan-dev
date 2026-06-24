@@ -29,7 +29,7 @@
 
 
 
-## 💻 About Me
+## 📝 About Me
 
 ✔️ Backend developer with a focus on DDD, Microservices,TDD
 
