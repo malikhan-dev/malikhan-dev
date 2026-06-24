@@ -59,6 +59,11 @@
   <em>if you make yourself more than just a man... if you devote yourself to an ideal, and if they cant stop you... then you become something else entirely! which is? legend mr wayne</em>
 </p>
 
+<div align="center">
+   <img width="300" height="150" alt="batman20" src="https://github.com/user-attachments/assets/917aac55-6054-4b7d-9adf-6a68ce9731a2" />
+</div>
+
+
   
 
 ## 📫 Contact
