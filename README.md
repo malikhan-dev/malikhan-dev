@@ -31,11 +31,17 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 - Working primarily with **Go**, **.NET / C#** and **Blazor WebAseembly** 
 - Creator and main developer of the **Zen-QL** Go package
 
-**but if you make yourself more than just a man... if you devote yourself to an ideal, and if they cant stop you... then you become something else entirely! which is? legend mr wayne**
+
+
+
+
+<br>
+
+<p align="center">
+  <em>but if you make yourself more than just a man... if you devote yourself to an ideal, and if they cant stop you... then you become something else entirely! which is? legend mr wayne</em>
+</p>
+
   
-<div align="center">
-   <img width="310" height="293" alt="batman" src="https://github.com/user-attachments/assets/36ffefe1-beab-43b5-85c6-4f825fde429f" />
-</div>
 
 ## 📫 Contact
 
