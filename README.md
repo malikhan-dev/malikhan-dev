@@ -2,6 +2,19 @@
 
 Backend developer specializing in **Go (Golang)** and **C#**, focused on building efficient systems, reusable libraries, and clean backend architectures.
 
+
+
+
+**but if you make yourself more than just a man... if you devote yourself to an ideal, and if they cant stop you... then you become something else entirely**
+
+
+
+---
+
+
+
+
+
 <p align="center">
   <img width="500" height="400" alt="zenql-logo" src="https://github.com/user-attachments/assets/6f0da9a5-bddb-4622-b914-54f2cbdb9b21" />
 </p>
@@ -17,7 +30,6 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
   <a href="https://github.com/malikhan-dev/zenql"><strong>Explore the Repository »</strong></a>
 </p>
 
----
 
 ## 📖 About zenql
 **zenql** is an open-source Go DSL inspired by LINQ. It brings expressive querying, streaming, and pipeline execution to slices and various async data sources (such as CSV or JSON Files, MySql Or Postgres databases and etc...). zenql enables efficient processing for high-throughput workloads and large datasets.
