@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  <em>if you make yourself more than just a man... if you devote yourself to an ideal, and if they cant stop you... then you become something else entirely! which is? legend mr wayne</em>
+  <em>if you make yourself more than just a man... if you devote yourself to an ideal, and if they cant stop you... then you become something else entirely! which is? legend mr wayne.</em>
 </p>
 
 <div align="center">
