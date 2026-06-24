@@ -57,7 +57,7 @@ click 👇 to explore the repository
 
 ## 📫 Contact
 
-gitHub: https://github.com/malikhan-dev 
+github: https://github.com/malikhan-dev 
 
 email: malikhan.dev2020@gmail.com
 
