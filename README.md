@@ -18,7 +18,7 @@
 <h1 align="center">🌐 Project ZenQL</h1>
 
 <p align="center">
-  <em> ✨ Expressive, Polymorphic Queries with Streaming Capabilities and a User-Friendly API, inspired by LINQ. ✨</em>
+  <b> ✨ Expressive, Polymorphic Queries with a Unified API over Various Data Sources, Inspired by LINQ. ✨</b>
 </p>
 
 
