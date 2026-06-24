@@ -1,4 +1,4 @@
-## 👨‍💻 Mohammadreza Malikhan 
+## Mohammadreza Malikhan 
 
 <div>
    Backend developer specializing in Go (Golang) and C#, focused on building efficient systems, reusable libraries, and clean backend architectures. Creator of ZenQL. an internal dsl for golang. comparable to c# linq and java streams.
@@ -7,7 +7,7 @@
 
 
 
-## 💎 Featured Project
+## Featured Project
 
 <div align="center">
 
@@ -24,23 +24,9 @@
 
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-ZenQL-blue?logo=github)](https://github.com/malikhan-dev/zenql)
-[![Go Report Card](https://goreportcard.com/badge/github.com/malikhan-dev/zenql)](https://goreportcard.com/report/github.com/malikhan-dev/zenql)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/malikhan-dev/zenql?style=social)](https://github.com/malikhan-dev/zenql/stargazers)
-
 
 </div>
 
-
-
-
-
-
-<p align="center">
-  its time to transform your codebase with ZenQL! 
-  <br>
-  <a href="https://github.com/malikhan-dev/zenql"><strong> explore the repository</strong></a>
-</p>
 
 
 ## 💻 About Me
