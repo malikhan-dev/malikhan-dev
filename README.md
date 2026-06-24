@@ -1,13 +1,7 @@
-## 👨‍💻 Mohammadreza Malikhan
-
-
+## 👨‍💻 Mohammadreza Malikhan 
 
 <div>
-
-[![Email](https://img.shields.io/badge/Email-malikhan.dev2020%40gmail.com-green?logo=gmail&logoColor=white)](mailto:malikhan.dev2020@gmail.com)
-
-Backend developer specializing in **Go (Golang)** and **C#**, focused on building efficient systems, reusable libraries, and clean backend architectures. Creator of ZenQL.
-
+   Backend developer specializing in Go (Golang) and C#, focused on building efficient systems, reusable libraries, and clean backend architectures. Creator of ZenQL. an internal dsl for golang. comparable to c# linq and java streams.
 </div>
 
 
