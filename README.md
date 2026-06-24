@@ -3,12 +3,6 @@
 Backend developer specializing in **Go (Golang)** and **C#**, focused on building efficient systems, reusable libraries, and clean backend architectures.
 
 
-
-
-**but if you make yourself more than just a man... if you devote yourself to an ideal, and if they cant stop you... then you become something else entirely**
-
-
-
 ---
 
 
@@ -31,75 +25,17 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 </p>
 
 
-## 📖 About zenql
-**zenql** is an open-source Go DSL inspired by LINQ. It brings expressive querying, streaming, and pipeline execution to slices and various async data sources (such as CSV or JSON Files, MySql Or Postgres databases and etc...). zenql enables efficient processing for high-throughput workloads and large datasets.
-
-The goal is to make data querying in Go more powerful and readable while staying aligned with Go's design principles.
-
-### ✨ Key Features
-*   **Fluent & Expressive:** A clean, LINQ-like query syntax.
-*   **Performance-Aware:** Designed for high-throughput and efficiency.
-*   **Versatile:** Seamlessly works with slices and external data sources.
-*   **Developer Experience:** Clean, intuitive, and easy to maintain.
-*   **Data Streaming:** Optimized for handling large datasets without overhead.
-
----
-
-## 🚀 Developer Friendly
-
-```go
-ctx, cancel := context.WithCancel(context.Background())
-defer cancel()
-
-var CsvStreamConfig contracts.CsvStreamConf[customer]
-
-if stream:= streams.FromCsv(ctx,CsvStreamConfig);stream.Initiated{
-
-	data := stream.FilterStream(func(c customer) bool {return c.Index > 0}).TakeAll()
-
-} else {
-
-	fmt.Println(stream.err)
-
-}
-
- result := collections.From(UserList).Where(func(user Users) bool {
-   
-         return collections.From(user.Addr).Any(func(address Address) bool {
-              
-               return address.City == "Karaj"
-              
-          }).Assert()}).Collect()
-
-```
-
----
-
-
 ## 💻 About Me
 
 - Backend developer with a focus on DDD, Microservices,TDD
 - Working primarily with **Go**, **.NET / C#** and **Blazor WebAseembly** 
-- Interested in **systems design, performance optimization, and library development**
 - Creator and main developer of the **Zen-QL** Go package
 
-
-## 🛠 Tech Stack
-
-### Languages
-Go, C#
-
-### Technologies & Tools
-Golang, Gin, .NET, Asp.Net, Blazor WebAseembly,Linux ,PostgreSQL, Mongodb, Redis, REST APIs and etc
-
-
-## 💡 Development Principles
-
-- Write **tested,documented, clear and maintainable code**
-- Prefer **simple and meaningful designs**
-- Optimize **performance where it matters**
-- Build tools that improve the **developer experience**
-
+**but if you make yourself more than just a man... if you devote yourself to an ideal, and if they cant stop you... then you become something else entirely! which is? legend mr wayne**
+  
+<div align="center">
+   <img width="310" height="293" alt="batman" src="https://github.com/user-attachments/assets/36ffefe1-beab-43b5-85c6-4f825fde429f" />
+</div>
 
 ## 📫 Contact
 
