@@ -60,7 +60,7 @@
 </p>
 
 <div align="center">
-   <img width="150" height="75" alt="batman20" src="https://github.com/user-attachments/assets/917aac55-6054-4b7d-9adf-6a68ce9731a2" />
+   <img width="70" height="35" alt="batman20" src="https://github.com/user-attachments/assets/917aac55-6054-4b7d-9adf-6a68ce9731a2" />
 </div>
 
 
