@@ -6,7 +6,6 @@
 
 
 
-
 ## Featured Project
 
 <div align="center">
