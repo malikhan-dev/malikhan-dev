@@ -43,7 +43,8 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 
 
 <p align="center">
-  it is time to transform your codebase with ZenQL!
+  its time to transform your codebase with ZenQL! 
+  <br>
   <a href="https://github.com/malikhan-dev/zenql"><strong> explore the repository</strong></a>
 </p>
 
