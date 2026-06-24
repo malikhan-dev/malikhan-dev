@@ -68,7 +68,7 @@ Backend developer specializing in **Go (Golang)** and **C#**, focused on buildin
 
 ## 📫 Contact
 
-GitHub: https://github.com/malikhan-dev 
+gitHub: https://github.com/malikhan-dev 
 
 email: malikhan.dev2020@gmail.com
 
