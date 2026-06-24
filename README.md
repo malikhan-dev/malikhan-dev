@@ -7,7 +7,7 @@
 
 
 
-## 🛠️ Featured Project
+## 🛠️ Featuring
 
 <div align="center">
 
