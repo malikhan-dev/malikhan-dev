@@ -32,7 +32,7 @@
 
 - Backend developer with a focus on DDD, Microservices,TDD
 - Working primarily with **Go**, **.NET / C#** and **Blazor WebAseembly** 
-- Creator and main developer of the **Zen-QL** Go package
+- Creator and lead developer of the **Zen-QL** Go package
 
 
 
