@@ -22,7 +22,7 @@
 </p>
 
 
-<img width="400" height="122" alt="zql-demo-best" src="https://github.com/user-attachments/assets/bfe4ca4a-c5ff-4034-a3df-6ba2c0e88af9" />
+<img width="400" height="226" alt="zql-demo-big" src="https://github.com/user-attachments/assets/1935a428-3baa-4681-857f-8e98e9ec4976" />
 
 
 
