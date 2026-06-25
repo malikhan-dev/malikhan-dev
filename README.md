@@ -21,6 +21,11 @@
   <b> ✨ Expressive, Polymorphic Queries with a Unified API over Various Data Sources, Inspired by LINQ. ✨</b>
 </p>
 
+
+<img width="1024" height="277" alt="demo" src="https://github.com/user-attachments/assets/4a2930b4-5bed-493f-8f34-203cac20613b" />
+
+
+
 click 👇 to explore the repository
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-ZenQL-blue?logo=github)](https://github.com/malikhan-dev/zenql)
