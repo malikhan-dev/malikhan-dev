@@ -22,7 +22,9 @@
 </p>
 
 
-<img width="600" height="250" alt="Demo-2" src="https://github.com/user-attachments/assets/7407c8ee-511c-4738-ab28-91a5b5e0ce68" />
+
+<img width="690" height="390" alt="Screencast from 2026-07-08 18-09-19" src="https://github.com/user-attachments/assets/33c4e3cc-85de-40c1-985f-0e3dad34fa8f" />
+
 
 
 
