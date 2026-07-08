@@ -22,7 +22,6 @@
 </p>
 
 
-
 <img width="690" height="390" alt="Screencast from 2026-07-08 18-09-19" src="https://github.com/user-attachments/assets/33c4e3cc-85de-40c1-985f-0e3dad34fa8f" />
 
 
@@ -34,6 +33,23 @@ click 👇 to explore the repository
 
 </div>
 
+<div>
+
+ZenQL v2.0.3 Released! 
+   
+``` go
+		
+    go get github.com/malikhan-dev/zenql/collections/Thor/v2@v2.0.3
+    
+    go get github.com/malikhan-dev/zenql/contracts/v2@v2.0.2
+    
+    go get github.com/malikhan-dev/zenql/streams/v2@v2.0.3
+    
+    go get github.com/malikhan-dev/zenql/databases/v2@v2.0.4
+    
+```
+
+</div>
 
 ## 📝 About Me
 
