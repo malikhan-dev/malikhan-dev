@@ -31,7 +31,7 @@
 <br/>
 <img width="690" height="300" alt="Sifu1" src="https://github.com/user-attachments/assets/016f5757-f2e5-4156-a7bb-16f41ae538d5" />
 
-<sub> Comming up next: Sifu Expression Language </sub>
+<sub> Sifu Expression Available! </sub>
 
 click 👇 to explore the repository
 
