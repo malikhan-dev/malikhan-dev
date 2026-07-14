@@ -51,7 +51,7 @@ ZenQL v2.0.3 Released!
 
     go get github.com/malikhan-dev/zenql/expressions/Sifu/@v1.0.0
     
-    go get github.com/malikhan-dev/zenql/streams/v2@v2.0.3
+    go get github.com/malikhan-dev/zenql/streams/v2@v2.0.4
     
     go get github.com/malikhan-dev/zenql/databases/v2@v2.0.4
     
