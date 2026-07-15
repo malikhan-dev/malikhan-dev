@@ -33,7 +33,7 @@
 
 <sub> Sifu Expression Available! </sub>
 
-<b> warning: Sifu is not yet stabilized for production environment </b>
+<b> warning: Sifu Expressions is not yet stabilized for production environment </b>
 
 click 👇 to explore the repository
 
@@ -51,7 +51,7 @@ ZenQL v2.0.4 Released!
     
     go get github.com/malikhan-dev/zenql/contracts/v2@v2.0.3
 
-    go get github.com/malikhan-dev/zenql/expressions/Sifu/@v1.0.2
+    go get github.com/malikhan-dev/zenql/expressions/Sifu/@v1.0.3
     
     go get github.com/malikhan-dev/zenql/streams/v2@v2.0.4
     
