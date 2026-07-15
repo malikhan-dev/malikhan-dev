@@ -49,7 +49,7 @@ ZenQL v2.0.4 Released!
     
     go get github.com/malikhan-dev/zenql/contracts/v2@v2.0.3
 
-    go get github.com/malikhan-dev/zenql/expressions/Sifu/@v1.0.1
+    go get github.com/malikhan-dev/zenql/expressions/Sifu/@v1.0.2
     
     go get github.com/malikhan-dev/zenql/streams/v2@v2.0.4
     
