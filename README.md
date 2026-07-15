@@ -33,6 +33,8 @@
 
 <sub> Sifu Expression Available! </sub>
 
+<b> warning: Sifu is not yet stabilized for production environment </b>
+
 click 👇 to explore the repository
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-ZenQL-blue?logo=github)](https://github.com/malikhan-dev/zenql)
