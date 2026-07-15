@@ -33,7 +33,7 @@
 
 <sub> Sifu Expression Available! </sub>
 
-<b> warning: Sifu Expressions is not yet stabilized for production environment </b>
+<b> Warning: Sifu Expressions prior to v1.0.3 is unstable for production use — upgrade to v1.0.3. </b>
 
 click 👇 to explore the repository
 
