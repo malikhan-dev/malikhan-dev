@@ -12,7 +12,7 @@
 <div align="center">
 
 <p align="center">
-  <img width="500" height="400" alt="zenql-logo" src="https://github.com/user-attachments/assets/6f0da9a5-bddb-4622-b914-54f2cbdb9b21" />
+  <img width="400" height="300" alt="zenql-logo" src="https://github.com/user-attachments/assets/6f0da9a5-bddb-4622-b914-54f2cbdb9b21" />
 </p>
 
 <h1 align="center">🌐 Project ZenQL</h1>
