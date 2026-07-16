@@ -22,7 +22,7 @@
 </p>
 
 
-<img width="490" height="200" alt="Screencast from 2026-07-08 18-09-19" src="https://github.com/user-attachments/assets/33c4e3cc-85de-40c1-985f-0e3dad34fa8f" />
+<img width="490" height="300" alt="Screencast from 2026-07-08 18-09-19" src="https://github.com/user-attachments/assets/33c4e3cc-85de-40c1-985f-0e3dad34fa8f" />
 
 <sub>	Query compilation and execution are delayed until collect() is called, ensuring that all operators are fused and optimized before runtime.
  </sub>
