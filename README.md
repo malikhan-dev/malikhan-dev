@@ -22,16 +22,17 @@
 </p>
 
 
-<img width="690" height="390" alt="Screencast from 2026-07-08 18-09-19" src="https://github.com/user-attachments/assets/33c4e3cc-85de-40c1-985f-0e3dad34fa8f" />
+<img width="490" height="200" alt="Screencast from 2026-07-08 18-09-19" src="https://github.com/user-attachments/assets/33c4e3cc-85de-40c1-985f-0e3dad34fa8f" />
 
 <sub>	Query compilation and execution are delayed until collect() is called, ensuring that all operators are fused and optimized before runtime.
  </sub>
 
 
 <br/>
-<img width="690" height="300" alt="Sifu1" src="https://github.com/user-attachments/assets/016f5757-f2e5-4156-a7bb-16f41ae538d5" />
 
-<sub> Sifu Expression Available! </sub>
+<img width="490" height="200" alt="Expressions" src="https://github.com/user-attachments/assets/d64f7ebd-5ecd-454d-ba97-69171b45ea76" />
+
+<b> Sifu Expression Available! </b>
 
 <b> Warning: Sifu Expressions prior to v1.0.3 is unstable for production use. upgrade to v1.0.3. </b>
 
