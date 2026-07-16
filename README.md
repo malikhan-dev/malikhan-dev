@@ -1,7 +1,8 @@
 ## 👤Mohammadreza Malikhan 
 
 <div>
-   Backend developer specializing in Go (Golang) and C#, focused on building efficient systems, reusable libraries, and clean backend architectures. Creator of ZenQL. an internal dsl for golang. comparable to c# linq and java streams💡
+
+I am a backend developer with a strong focus on Go and C#. My work centers on building high-performance systems and designing reusable, clean architectures. I am the creator of Zen-QL a powerful query language for Go that brings LINQ and Java Streams like capabilities to the ecosystem. I am a dedicated open-source contributor, and I find great joy in creating tools that solve complex challenges.
 
 </div>
 
