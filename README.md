@@ -45,15 +45,15 @@ click 👇 to explore the repository
 
 <div>
 
-ZenQL v2.0.5 Released! 
+ZenQL v2.0.6 Released! 
    
 ``` go
 		
-    go get github.com/malikhan-dev/zenql/collections/Thor/v2@v2.0.5
+    go get github.com/malikhan-dev/zenql/collections/Thor/v2@v2.0.6
     
-    go get github.com/malikhan-dev/zenql/contracts/v2@v2.0.5
+    go get github.com/malikhan-dev/zenql/contracts/v2@v2.0.6
 
-    go get github.com/malikhan-dev/zenql/expressions/Sifu/@v1.0.4
+    go get github.com/malikhan-dev/zenql/expressions/Sifu/@v1.0.6
     
     go get github.com/malikhan-dev/zenql/streams/v2@v2.0.5
     
