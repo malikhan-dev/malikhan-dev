@@ -35,7 +35,7 @@ I am a backend developer with a strong focus on Go and C#. My work centers on bu
 
 <b> Sifu Expression Available! </b>
 
-<b> Warning: Sifu Expressions prior to v1.0.3 is unstable for production use. upgrade to v1.0.3. </b>
+<b> Warning: Sifu Expressions prior to v1.0.3 is unstable for production use. upgrade to v1.0.3 or higher </b>
 
 click 👇 to explore the repository
 
