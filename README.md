@@ -41,6 +41,8 @@ click 👇 to explore the repository
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-ZenQL-blue?logo=github)](https://github.com/malikhan-dev/zenql)
 
+release schedule: https://dev.to/zenql/zen-ql-release-announcement-4im7
+
 </div>
 
 <div>
